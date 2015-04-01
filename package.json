@@ -1,0 +1,24 @@
+{
+  "name": "flux-capacitor",
+  "version": "0.1.0",
+  "description": "A simple Flux architecture implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "clear && mocha spec"
+  },
+  "keywords": [
+    "flux",
+    "react"
+  ],
+  "author": "Nathan Hackley <nathanhackley@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "eventemitter3": "^0.1.6",
+    "flux": "^2.0.1",
+    "underscore": "^1.8.2"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1"
+  }
+}
