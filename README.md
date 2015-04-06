@@ -1,2 +1,2 @@
-# Flux Capacitor
+# FluxCap
 A simple Flux architecture implementation
