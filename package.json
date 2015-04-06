@@ -1,5 +1,5 @@
 {
-  "name": "flux-capacitor",
+  "name": "fluxcap",
   "version": "0.1.0",
   "description": "A simple Flux architecture implementation",
   "main": "index.js",
